@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚽ Football Analytics Warehouse
+# ⚽ PitchIQ — Football Intelligence & Analytics Platform
 
 ### A production-shaped data engineering pipeline that turns 25 years of raw football data into a queryable, containerized dimensional warehouse — and a 4-page BI dashboard on top.
 
