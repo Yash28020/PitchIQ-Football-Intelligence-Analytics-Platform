@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# ETL intermediate output
+Data/Matches_with_id.csv
+
+# Power BI audit artifacts
+Power-BI/*.zip
+Power-BI/unzipped/
